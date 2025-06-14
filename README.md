@@ -1,2 +1,3 @@
-# icu-api
-ICU API backend
+# ICU API
+
+API for ICU management system.
